@@ -8,7 +8,7 @@ Coursework notebooks covering exploratory multivariate analysis and unsupervised
 - hierarchical clustering and PCA-based visualisation (`TP3_Clustering.ipynb`);
 - silhouette-score analysis and cluster-balance discussion on the included datasets.
 
-The clustering notebook includes experiments on `wdbc.csv` and `spamb.csv`. It explicitly discusses why a silhouette score must be interpreted alongside cluster structure and balance.
+The clustering notebook includes experiments on `wdbc.csv` and `spamb.csv`. The PCA notebook also includes the `villes.csv`, `50_Startups.csv` and `crimes.csv` datasets. It explicitly discusses why a silhouette score must be interpreted alongside cluster structure and balance.
 
 ## Run
 
